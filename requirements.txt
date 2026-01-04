@@ -1,0 +1,7 @@
+Libraries:
+
+Pandas – Data handling and analysis
+
+Matplotlib – Data visualization
+
+NumPy – Numerical operations
